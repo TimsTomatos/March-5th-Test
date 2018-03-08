@@ -1,0 +1,18 @@
+.article {
+	background-color: gray;
+	font-size: 36px;
+	border: solid 100 px;
+	margin: 0 auto;
+	font-family: sans-serif;
+
+
+	
+}
+
+#container {
+	background-color: white;
+}
+
+h1 {
+	font-size: 48px;
+}
